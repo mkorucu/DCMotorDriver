@@ -48,7 +48,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=TwoLayerDriverSchlib.SchLib
+DocumentPath=SMD Brushed Motor Driver V3.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -58,20 +58,20 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BHWETZBV
+DocumentUniqueId=YLWYVYYY
 
 [Document2]
-DocumentPath=TwoLayerDriverPcbLib.PcbLib
+DocumentPath=2101 Version.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -79,16 +79,16 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JCSAMKAI
+DocumentUniqueId=RMWOMMFC
 
 [Document3]
-DocumentPath=TwoLayerMotorDriver.SchDoc
+DocumentPath=2101 Version.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=0
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -96,16 +96,16 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ACYYERMB
+DocumentUniqueId=TDCCYQNW
 
 [Document4]
-DocumentPath=PCB1.PcbDoc
-AnnotationEnabled=1
+DocumentPath=SMD Brushed Motor Driver V3.SchDoc
+AnnotationEnabled=0
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -113,10 +113,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DFKIFIVF
+DocumentUniqueId=JGBZZVWI
 
 [Document5]
-DocumentPath=PCB2.PcbDoc
+DocumentPath=V4_with_2101.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -126,14 +126,14 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=HDDQNLGG
+DocumentUniqueId=PSEUGPXU
 
 [Document6]
-DocumentPath=CAMtastic5.Cam
+DocumentPath=2110V3.1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -147,10 +147,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JWFNIUSD
 
 [Document7]
-DocumentPath=CAMtastic6.Cam
+DocumentPath=CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -167,39 +167,71 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for two_layer_dc_esc\PCB2.DRR
+DocumentPath=Project Outputs for SMD Brushed Motor Driver V3\2110V3.1.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for two_layer_dc_esc\PCB2.EXTREP
+DocumentPath=Project Outputs for SMD Brushed Motor Driver V3\2110V3.1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for two_layer_dc_esc\PCB2.GBL
+DocumentPath=Project Outputs for SMD Brushed Motor Driver V3\2110V3.1.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for two_layer_dc_esc\PCB2.GKO
+DocumentPath=Project Outputs for SMD Brushed Motor Driver V3\2110V3.1.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for two_layer_dc_esc\PCB2.GTL
+DocumentPath=Project Outputs for SMD Brushed Motor Driver V3\2110V3.1.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for two_layer_dc_esc\PCB2.LDP
+DocumentPath=Project Outputs for SMD Brushed Motor Driver V3\2110V3.1.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for two_layer_dc_esc\PCB2.REP
+DocumentPath=Project Outputs for SMD Brushed Motor Driver V3\2110V3.1.REP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for two_layer_dc_esc\PCB2.RUL
+DocumentPath=Project Outputs for SMD Brushed Motor Driver V3\2110V3.1.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for two_layer_dc_esc\PCB2.TXT
+DocumentPath=Project Outputs for SMD Brushed Motor Driver V3\Design Rule Check - 2101 Version.html
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for SMD Brushed Motor Driver V3\V4_with_2101.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for SMD Brushed Motor Driver V3\V4_with_2101.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for SMD Brushed Motor Driver V3\V4_with_2101.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for SMD Brushed Motor Driver V3\V4_with_2101.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for SMD Brushed Motor Driver V3\V4_with_2101.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for SMD Brushed Motor Driver V3\V4_with_2101.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for SMD Brushed Motor Driver V3\V4_with_2101.REP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for SMD Brushed Motor Driver V3\V4_with_2101.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -213,8 +245,8 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_SimulationProfiles]
-ActiveProfile=XINDKARG
-ProfileId0=XINDKARG
+ActiveProfile=FUTRBGLB
+ProfileId0=FUTRBGLB
 ProfileName0=Mixed Sim Configuration
 OutputType0=AdvSimNetlist
 ConfigParameters0=OP_Analysis=False|TRAN_Analysis=True|DC_Analysis=False|AC_Analysis=False|TF_Analysis=False|PZ_Analysis=False|Noise_Analysis=False|TRAN_FourierAnalysis=False|TempSweep_Analysis=False|ParamSweep_Analysis=False|MonteCarlo_Analysis=False|TF_Enabled=False|TF_Source=|TF_Reference=0|PZ_Enabled=False|PZ_Node1=|PZ_Node2=0|PZ_Node3=|PZ_Node4=0|PZ_AnalType=PZ|PZ_TfType=VOL|AnalysesDataSavedIndex=4|DC_ShowMeasTableChart=False|DC_PrimarySource=|DC_PrimaryStart=|DC_PrimaryStop=|DC_PrimaryStep=|DC_EnableSecondary=False|DC_SecondarySource=|DC_SecondaryStart=|DC_SecondaryStop=|DC_SecondaryStep=|Noise_Enabled=False|Noise_Source=|Noise_Output=|Noise_Reference=0|Noise_Start_UserValue=|Noise_Start=1K|Noise_Stop_UserValue=|Noise_Stop=1G|Noise_TestPoints_UserValue=|Noise_TestPoints=10|Noise_PointsPerSummary=0|Noise_SweepType=DEC|AC_StartFrequency_UserValue=|AC_StartFrequency=1K|AC_StopFrequency_UserValue=|AC_StopFrequency=1G|AC_TestPoints_UserValue=|AC_TestPoints=10|AC_SweepType=DEC|AC_ShowMeasTableChart=False|TRAN_StartTime_UserValue=|TRAN_StartTime=0|TRAN_StopTime_UserValue=|TRAN_StopTime=5u|TRAN_StepTime_UserValue=|TRAN_StepTime=0.1u|TRAN_MaxStepTime_UserValue=|TRAN_MaxStepTime=0.1u|TRAN_AlwaysSetDefaults=False|TRAN_DefaultCycles_UserValue=|TRAN_DefaultCycles=5|TRAN_DefaultPointsPerCycle_UserValue=|TRAN_DefaultPointsPerCycle=25|TRAN_UseInitialConditions=False|TRAN_FourierEnabled=False|TRAN_FourierFundFreq_UserValue=|TRAN_FourierFundFreq=1Meg|TRAN_FourierNumHarmonics_UserValue=|TRAN_FourierNumHarmonics=10|TRAN_ShowMeasTableChart=False|TempSweep_Start_UserValue=|TempSweep_Start=-10|TempSweep_Stop_UserValue=|TempSweep_Stop=60|TempSweep_Step_UserValue=|TempSweep_Step=10|ParamSweep_Parameter1=|ParamSweep_Type1=LIN|ParamSweep_Start1=|ParamSweep_Stop1=|ParamSweep_Step1=|ParamSweep_SweepType1=False|ParamSweep_SecondaryEnabled=False|ParamSweep_Parameter2=|ParamSweep_Type2=LIN|ParamSweep_Start2=|ParamSweep_Stop2=|ParamSweep_Step2=|ParamSweep_SweepType2=False|MonteCarlo_NumberOfRuns=10|MonteCarlo_DistributionType=GAUSS|MonteCarlo_Seed=-1|MonteCarlo_ResistorTolerance=10%|MonteCarlo_ResistorTolerance_UserValue=10%|MonteCarlo_CapacitorTolerance=10%|MonteCarlo_CapacitorTolerance_UserValue=10%|MonteCarlo_InductorTolerance=10%|MonteCarlo_InductorTolerance_UserValue=10%|MonteCarlo_TransistorTolerance=10%|MonteCarlo_TransistorTolerance_UserValue=10%|MonteCarlo_DCSourceTolerance=10%|MonteCarlo_DCSourceTolerance_UserValue=10%|MonteCarlo_DigitalTpTolerance=10%|MonteCarlo_DigitalTpTolerance_UserValue=10%|Sensitivity_Analysis=False|Sensitivity_GroupDeviationsEnabled=False|Sensitivity_GroupResistorEnabled=True|Sensitivity_GroupResistorDeviation_UserValue=|Sensitivity_GroupResistorDeviation=1m|Sensitivity_GroupCapacitorEnabled=False|Sensitivity_GroupCapacitorDeviation_UserValue=|Sensitivity_GroupCapacitorDeviation=1m|Sensitivity_GroupInductorEnabled=False|Sensitivity_GroupInductorDeviation_UserValue=|Sensitivity_GroupInductorDeviation=1m|Sensitivity_GroupTransistorEnabled=False|Sensitivity_GroupTransistorDeviation_UserValue=|Sensitivity_GroupTransistorDeviation=1m|Sensitivity_GroupDcSourceEnabled=False|Sensitivity_GroupDcSourceDeviation_UserValue=|Sensitivity_GroupDcSourceDeviation=1m|Sensitivity_GroupGlobalParameterEnabled=False|Sensitivity_GroupGlobalParameterDeviation_UserValue=|Sensitivity_GroupGlobalParameterDeviation=1m|Sensitivity_CustomDeviationsEnabled=True|OldCfgLoaded=True|SimViewSetup=ShowActiveSignalsProbes|OPTION_Method=Trapezoidal|OPTION_SpiceRefNode_UserValue=|OPTION_SpiceRefNode=GND|OPTION_DVCC_UserValue=|OPTION_DVCC=5|OPTION_DVDD_UserValue=|OPTION_DVDD=15|SheetsToNetlist=0
@@ -341,12 +373,12 @@ OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
 Configuration1_Name1=OutputConfigurationParameter1
-Configuration1_Item1=OP_Analysis=False|TRAN_Analysis=True|DC_Analysis=False|AC_Analysis=False|TF_Analysis=False|PZ_Analysis=False|Noise_Analysis=False|TRAN_FourierAnalysis=False|TempSweep_Analysis=False|ParamSweep_Analysis=False|MonteCarlo_Analysis=False|TF_Enabled=False|TF_Source= |TF_Reference=0|PZ_Enabled=False|PZ_Node1= |PZ_Node2=0|PZ_Node3= |PZ_Node4=0|PZ_AnalType=PZ|PZ_TfType=VOL|AnalysesDataSavedIndex=4|DC_ShowMeasTableChart=False|DC_PrimarySource= |DC_PrimaryStart= |DC_PrimaryStop= |DC_PrimaryStep= |DC_EnableSecondary=False|DC_SecondarySource= |DC_SecondaryStart= |DC_SecondaryStop= |DC_SecondaryStep= |Noise_Enabled=False|Noise_Source= |Noise_Output= |Noise_Reference=0|Noise_Start_UserValue= |Noise_Start=1K|Noise_Stop_UserValue= |Noise_Stop=1G|Noise_TestPoints_UserValue= |Noise_TestPoints=10|Noise_PointsPerSummary=0|Noise_SweepType=DEC|AC_StartFrequency_UserValue= |AC_StartFrequency=1K|AC_StopFrequency_UserValue= |AC_StopFrequency=1G|AC_TestPoints_UserValue= |AC_TestPoints=10|AC_SweepType=DEC|AC_ShowMeasTableChart=False|TRAN_StartTime_UserValue= |TRAN_StartTime=0|TRAN_StopTime_UserValue= |TRAN_StopTime=5u|TRAN_StepTime_UserValue= |TRAN_StepTime=0.1u|TRAN_MaxStepTime_UserValue= |TRAN_MaxStepTime=0.1u|TRAN_AlwaysSetDefaults=False|TRAN_DefaultCycles_UserValue= |TRAN_DefaultCycles=5|TRAN_DefaultPointsPerCycle_UserValue= |TRAN_DefaultPointsPerCycle=25|TRAN_UseInitialConditions=False|TRAN_FourierEnabled=False|TRAN_FourierFundFreq_UserValue= |TRAN_FourierFundFreq=1Meg|TRAN_FourierNumHarmonics_UserValue= |TRAN_FourierNumHarmonics=10|TRAN_ShowMeasTableChart=False|TempSweep_Start_UserValue= |TempSweep_Start=-10|TempSweep_Stop_UserValue= |TempSweep_Stop=60|TempSweep_Step_UserValue= |TempSweep_Step=10|ParamSweep_Parameter1= |ParamSweep_Type1=LIN|ParamSweep_Start1= |ParamSweep_Stop1= |ParamSweep_Step1= |ParamSweep_SweepType1=False|ParamSweep_SecondaryEnabled=False|ParamSweep_Parameter2= |ParamSweep_Type2=LIN|ParamSweep_Start2= |ParamSweep_Stop2= |ParamSweep_Step2= |ParamSweep_SweepType2=False|MonteCarlo_NumberOfRuns=10|MonteCarlo_DistributionType=GAUSS|MonteCarlo_Seed=-1|MonteCarlo_ResistorTolerance=10%|MonteCarlo_ResistorTolerance_UserValue=10%|MonteCarlo_CapacitorTolerance=10%|MonteCarlo_CapacitorTolerance_UserValue=10%|MonteCarlo_InductorTolerance=10%|MonteCarlo_InductorTolerance_UserValue=10%|MonteCarlo_TransistorTolerance=10%|MonteCarlo_TransistorTolerance_UserValue=10%|MonteCarlo_DCSourceTolerance=10%|MonteCarlo_DCSourceTolerance_UserValue=10%|MonteCarlo_DigitalTpTolerance=10%|MonteCarlo_DigitalTpTolerance_UserValue=10%|Sensitivity_Analysis=False|Sensitivity_GroupDeviationsEnabled=False|Sensitivity_GroupResistorEnabled=True|Sensitivity_GroupResistorDeviation_UserValue= |Sensitivity_GroupResistorDeviation=1m|Sensitivity_GroupCapacitorEnabled=False|Sensitivity_GroupCapacitorDeviation_UserValue= |Sensitivity_GroupCapacitorDeviation=1m|Sensitivity_GroupInductorEnabled=False|Sensitivity_GroupInductorDeviation_UserValue= |Sensitivity_GroupInductorDeviation=1m|Sensitivity_GroupTransistorEnabled=False|Sensitivity_GroupTransistorDeviation_UserValue= |Sensitivity_GroupTransistorDeviation=1m|Sensitivity_GroupDcSourceEnabled=False|Sensitivity_GroupDcSourceDeviation_UserValue= |Sensitivity_GroupDcSourceDeviation=1m|Sensitivity_GroupGlobalParameterEnabled=False|Sensitivity_GroupGlobalParameterDeviation_UserValue= |Sensitivity_GroupGlobalParameterDeviation=1m|Sensitivity_CustomDeviationsEnabled=True|OldCfgLoaded=True|SimViewSetup=ShowActiveSignalsProbes|OPTION_Method=Trapezoidal|OPTION_SpiceRefNode_UserValue= |OPTION_SpiceRefNode=GND|OPTION_DVCC_UserValue= |OPTION_DVCC=5|OPTION_DVDD_UserValue= |OPTION_DVDD=15|SheetsToNetlist=0|Record=AdvSimNetlistView|SimulationName=Mixed Sim Configuration|ProfileId=XINDKARG
+Configuration1_Item1=OP_Analysis=False|TRAN_Analysis=True|DC_Analysis=False|AC_Analysis=False|TF_Analysis=False|PZ_Analysis=False|Noise_Analysis=False|TRAN_FourierAnalysis=False|TempSweep_Analysis=False|ParamSweep_Analysis=False|MonteCarlo_Analysis=False|TF_Enabled=False|TF_Source= |TF_Reference=0|PZ_Enabled=False|PZ_Node1= |PZ_Node2=0|PZ_Node3= |PZ_Node4=0|PZ_AnalType=PZ|PZ_TfType=VOL|AnalysesDataSavedIndex=4|DC_ShowMeasTableChart=False|DC_PrimarySource= |DC_PrimaryStart= |DC_PrimaryStop= |DC_PrimaryStep= |DC_EnableSecondary=False|DC_SecondarySource= |DC_SecondaryStart= |DC_SecondaryStop= |DC_SecondaryStep= |Noise_Enabled=False|Noise_Source= |Noise_Output= |Noise_Reference=0|Noise_Start_UserValue= |Noise_Start=1K|Noise_Stop_UserValue= |Noise_Stop=1G|Noise_TestPoints_UserValue= |Noise_TestPoints=10|Noise_PointsPerSummary=0|Noise_SweepType=DEC|AC_StartFrequency_UserValue= |AC_StartFrequency=1K|AC_StopFrequency_UserValue= |AC_StopFrequency=1G|AC_TestPoints_UserValue= |AC_TestPoints=10|AC_SweepType=DEC|AC_ShowMeasTableChart=False|TRAN_StartTime_UserValue= |TRAN_StartTime=0|TRAN_StopTime_UserValue= |TRAN_StopTime=5u|TRAN_StepTime_UserValue= |TRAN_StepTime=0.1u|TRAN_MaxStepTime_UserValue= |TRAN_MaxStepTime=0.1u|TRAN_AlwaysSetDefaults=False|TRAN_DefaultCycles_UserValue= |TRAN_DefaultCycles=5|TRAN_DefaultPointsPerCycle_UserValue= |TRAN_DefaultPointsPerCycle=25|TRAN_UseInitialConditions=False|TRAN_FourierEnabled=False|TRAN_FourierFundFreq_UserValue= |TRAN_FourierFundFreq=1Meg|TRAN_FourierNumHarmonics_UserValue= |TRAN_FourierNumHarmonics=10|TRAN_ShowMeasTableChart=False|TempSweep_Start_UserValue= |TempSweep_Start=-10|TempSweep_Stop_UserValue= |TempSweep_Stop=60|TempSweep_Step_UserValue= |TempSweep_Step=10|ParamSweep_Parameter1= |ParamSweep_Type1=LIN|ParamSweep_Start1= |ParamSweep_Stop1= |ParamSweep_Step1= |ParamSweep_SweepType1=False|ParamSweep_SecondaryEnabled=False|ParamSweep_Parameter2= |ParamSweep_Type2=LIN|ParamSweep_Start2= |ParamSweep_Stop2= |ParamSweep_Step2= |ParamSweep_SweepType2=False|MonteCarlo_NumberOfRuns=10|MonteCarlo_DistributionType=GAUSS|MonteCarlo_Seed=-1|MonteCarlo_ResistorTolerance=10%|MonteCarlo_ResistorTolerance_UserValue=10%|MonteCarlo_CapacitorTolerance=10%|MonteCarlo_CapacitorTolerance_UserValue=10%|MonteCarlo_InductorTolerance=10%|MonteCarlo_InductorTolerance_UserValue=10%|MonteCarlo_TransistorTolerance=10%|MonteCarlo_TransistorTolerance_UserValue=10%|MonteCarlo_DCSourceTolerance=10%|MonteCarlo_DCSourceTolerance_UserValue=10%|MonteCarlo_DigitalTpTolerance=10%|MonteCarlo_DigitalTpTolerance_UserValue=10%|Sensitivity_Analysis=False|Sensitivity_GroupDeviationsEnabled=False|Sensitivity_GroupResistorEnabled=True|Sensitivity_GroupResistorDeviation_UserValue= |Sensitivity_GroupResistorDeviation=1m|Sensitivity_GroupCapacitorEnabled=False|Sensitivity_GroupCapacitorDeviation_UserValue= |Sensitivity_GroupCapacitorDeviation=1m|Sensitivity_GroupInductorEnabled=False|Sensitivity_GroupInductorDeviation_UserValue= |Sensitivity_GroupInductorDeviation=1m|Sensitivity_GroupTransistorEnabled=False|Sensitivity_GroupTransistorDeviation_UserValue= |Sensitivity_GroupTransistorDeviation=1m|Sensitivity_GroupDcSourceEnabled=False|Sensitivity_GroupDcSourceDeviation_UserValue= |Sensitivity_GroupDcSourceDeviation=1m|Sensitivity_GroupGlobalParameterEnabled=False|Sensitivity_GroupGlobalParameterDeviation_UserValue= |Sensitivity_GroupGlobalParameterDeviation=1m|Sensitivity_CustomDeviationsEnabled=True|OldCfgLoaded=True|SimViewSetup=ShowActiveSignalsProbes|OPTION_Method=Trapezoidal|OPTION_SpiceRefNode_UserValue= |OPTION_SpiceRefNode=GND|OPTION_DVCC_UserValue= |OPTION_DVCC=5|OPTION_DVDD_UserValue= |OPTION_DVDD=15|SheetsToNetlist=0|Record=AdvSimNetlistView|SimulationName=Mixed Sim Configuration|ProfileId=FUTRBGLB
 
 [OutputGroup3]
 Name=Documentation Outputs
 Description=
-TargetPrinter=Virtual Printer
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Composite
 OutputName1=Composite Drawing
@@ -502,7 +534,7 @@ OutputDefault8=0
 Configuration8_Name1=ForceUpdateSettings
 Configuration8_Item1=False
 Configuration8_Name2=OutputConfigurationParameter1
-Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes|DocumentPath=C:\Users\Public\Documents\Altium\two_layer_dc_esc\PCB2.PcbDoc
+Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes|DocumentPath=C:\Users\Public\Documents\Altium\SMD Brushed Motor Driver V3\V4_with_2101.PcbDoc
 OutputType9=IPC2581
 OutputName9=IPC-2581 Files
 OutputDocumentPath9=
@@ -527,7 +559,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=40|MinusApertureTolerance=40|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16842751~1,16973837~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=40|PlusApertureTolerance=40|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=C:\Users\Public\Documents\Altium\two_layer_dc_esc\PCB2.PcbDoc
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=PSEUGPXU|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16842751~1,16973837~1|PlotBoardProfile=False|PlotBoardProfileFileName=SMD Brushed Motor Driver V3.GM|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName=V4_with_2101.GD1|UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName=V4_with_2101.GG1|UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|UserLayerName.Caption0=V4_with_2101.GBO|UserLayerName.Caption1=V4_with_2101.GTP|UserLayerName.Caption10=V4_with_2101.GPB|UserLayerName.Caption11=V4_with_2101.GBS|UserLayerName.Caption12=V4_with_2101.GM16|UserLayerName.Caption13=V4_with_2101.GM6|UserLayerName.Caption14=V4_with_2101.GM1|UserLayerName.Caption15=V4_with_2101.GBL|UserLayerName.Caption16=V4_with_2101.GM5|UserLayerName.Caption17=V4_with_2101.GM15|UserLayerName.Caption18=V4_with_2101.GM24|UserLayerName.Caption19=V4_with_2101.GM20|UserLayerName.Caption2=V4_with_2101.GTO|UserLayerName.Caption20=V4_with_2101.GTL|UserLayerName.Caption21=V4_with_2101.GBP|UserLayerName.Caption3=V4_with_2101.GTS|UserLayerName.Caption4=V4_with_2101.GM13|UserLayerName.Caption5=V4_with_2101.GM2|UserLayerName.Caption6=V4_with_2101.GM21|UserLayerName.Caption7=V4_with_2101.GM23|UserLayerName.Caption8=V4_with_2101.GKO|UserLayerName.Caption9=V4_with_2101.GPT|UserLayerName.Count=22|UserLayerName.Layer0=16973831|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16973849|UserLayerName.Layer11=16973835|UserLayerName.Layer12=16908304|UserLayerName.Layer13=16908294|UserLayerName.Layer14=16908289|UserLayerName.Layer15=16842751|UserLayerName.Layer16=16908293|UserLayerName.Layer17=16908303|UserLayerName.Layer18=16908312|UserLayerName.Layer19=16908308|UserLayerName.Layer2=16973830|UserLayerName.Layer20=16777217|UserLayerName.Layer21=16973833|UserLayerName.Layer3=16973834|UserLayerName.Layer4=16908301|UserLayerName.Layer5=16908290|UserLayerName.Layer6=16908309|UserLayerName.Layer7=16908311|UserLayerName.Layer8=16973837|UserLayerName.Layer9=16973848|DocumentPath=C:\Users\Public\Documents\Altium\SMD Brushed Motor Driver V3\V4_with_2101.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
@@ -540,6 +572,18 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=ForceUpdateSettings
+Configuration1_Item2=False
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=Comment=True|Footprint=True
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
 OutputType2=BOM_ReportCompare
 OutputName2=BOM Compare
 OutputDocumentPath2=
@@ -557,30 +601,32 @@ OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-Configuration4_Name1=ForceUpdateSettings
-Configuration4_Item1=False
-Configuration4_Name2=OutputConfigurationParameter1
-Configuration4_Item2=Record=ExportCommentsView|IncludeEntireDesign=False|IncludeOriginalScreenshot=False|DocumentPath=[Project]
-OutputType5=ReportHierarchy
-OutputName5=Report Project Hierarchy
+OutputType5=Project History
+OutputName5=Project History
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
-OutputType6=Script
-OutputName6=Script Output
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=ReportHierarchy
+OutputName6=Report Project Hierarchy
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=SimpleBOM
-OutputName7=Simple BOM
+OutputType7=Script
+OutputName7=Script Output
 OutputDocumentPath7=
 OutputVariantName7=[No Variations]
 OutputDefault7=0
-OutputType8=SinglePinNetReporter
-OutputName8=Report Single Pin Nets
+OutputType8=SimpleBOM
+OutputName8=Simple BOM
 OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
+OutputType9=SinglePinNetReporter
+OutputName9=Report Single Pin Nets
+OutputDocumentPath9=
+OutputVariantName9=[No Variations]
+OutputDefault9=0
 
 [OutputGroup7]
 Name=Other Outputs
@@ -1176,60 +1222,162 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
-ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=Schlib1.SchLib
-ComponentDesignItemID0=100nF 50V SERAMIC CAPACITOR
-ComponentSymbolReference0=100nF 50V SERAMIC CAPACITOR
+ComponentLibIdentifierKind0=Library Name Only
+ComponentLibraryIdentifier0=Altium Content Vault
+ComponentDesignItemID0=CMP-04917-000197-1
+ComponentSymbolReference0=6590f56fc76c1ccc3d91a0358e41599
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=Schlib1.SchLib
-ComponentDesignItemID1=10K 1/4W
-ComponentSymbolReference1=10K 1/4W
+ComponentLibIdentifierKind1=Library Name Only
+ComponentLibraryIdentifier1=ITU Autobee
+ComponentDesignItemID1=CMP-00000-1
+ComponentSymbolReference1=LM2596 Buck Converter Module Symbol
 ComponentUpdate1=1
 ComponentIsDeviceSheet1=0
-ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=Schlib1.SchLib
-ComponentDesignItemID2=1k
-ComponentSymbolReference2=1k
+ComponentLibIdentifierKind2=Library Name Only
+ComponentLibraryIdentifier2=ITU Autobee
+ComponentDesignItemID2=CMP-000001-1
+ComponentSymbolReference2=Tunic Connector 2.54-2
 ComponentUpdate2=1
 ComponentIsDeviceSheet2=0
-ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=Schlib1.SchLib
-ComponentDesignItemID3=DIODE
-ComponentSymbolReference3=DIODE
+ComponentLibIdentifierKind3=Library Name Only
+ComponentLibraryIdentifier3=ITU Autobee
+ComponentDesignItemID3=CMP-000003-2
+ComponentSymbolReference3=22 uF TH Electrolytic Capacitor-Symbol-1
 ComponentUpdate3=1
 ComponentIsDeviceSheet3=0
-ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=Schlib1.SchLib
-ComponentDesignItemID4=FR1MDITR DIODE
-ComponentSymbolReference4=FR1MDITR DIODE
+ComponentLibIdentifierKind4=Library Name Only
+ComponentLibraryIdentifier4=ITU Autobee
+ComponentDesignItemID4=CMP-000005-2
+ComponentSymbolReference4=1d6ec82d83fb6aee721767c19dac4b9
 ComponentUpdate4=1
 ComponentIsDeviceSheet4=0
-ComponentLibIdentifierKind5=Library Name And Type
-ComponentLibraryIdentifier5=TwoLayerDriverSchlib.SchLib
-ComponentDesignItemID5=4 Pin Male Header
-ComponentSymbolReference5=4 Pin Male Header
+ComponentLibIdentifierKind5=Library Name Only
+ComponentLibraryIdentifier5=ITU Autobee
+ComponentDesignItemID5=CMP-000008-1
+ComponentSymbolReference5=8db39607336c341a927600551d01821
 ComponentUpdate5=1
 ComponentIsDeviceSheet5=0
-ComponentLibIdentifierKind6=Library Name And Type
-ComponentLibraryIdentifier6=TwoLayerDriverSchlib.SchLib
-ComponentDesignItemID6=EEEFN1H220UR
-ComponentSymbolReference6=EEEFN1H220UR
+ComponentLibIdentifierKind6=Library Name Only
+ComponentLibraryIdentifier6=ITU Autobee
+ComponentDesignItemID6=CMP-000009-1
+ComponentSymbolReference6=f813f71cba58e380607f5dd3caf9714
 ComponentUpdate6=1
 ComponentIsDeviceSheet6=0
-ComponentLibIdentifierKind7=Library Name And Type
-ComponentLibraryIdentifier7=TwoLayerDriverSchlib.SchLib
-ComponentDesignItemID7=IR2103SPBF
-ComponentSymbolReference7=IR2103SPBF
+ComponentLibIdentifierKind7=Library Name Only
+ComponentLibraryIdentifier7=ITU Autobee
+ComponentDesignItemID7=CMP-000010-1
+ComponentSymbolReference7=1029c3af85768c4190bb7ad29bc67b5
 ComponentUpdate7=1
 ComponentIsDeviceSheet7=0
-ComponentLibIdentifierKind8=Library Name And Type
-ComponentLibraryIdentifier8=TwoLayerDriverSchlib.SchLib
-ComponentDesignItemID8=IRF3205S_PBF
-ComponentSymbolReference8=IRF3205S_PBF
+ComponentLibIdentifierKind8=Library Name Only
+ComponentLibraryIdentifier8=ITU Autobee
+ComponentDesignItemID8=CMP-000011-3
+ComponentSymbolReference8=203bc49f2ac43e59fd269a8c329ed05
 ComponentUpdate8=1
 ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name Only
+ComponentLibraryIdentifier9=ITU Autobee
+ComponentDesignItemID9=CMP-000013-1
+ComponentSymbolReference9=b4654b650e69147ec39a6b967a45e02
+ComponentUpdate9=1
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name Only
+ComponentLibraryIdentifier10=ITU Autobee
+ComponentDesignItemID10=CMP-000014-1
+ComponentSymbolReference10=b4654b650e69147ec39a6b967a45e02
+ComponentUpdate10=1
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name Only
+ComponentLibraryIdentifier11=ITU Autobee
+ComponentDesignItemID11=CMP-000015-1
+ComponentSymbolReference11=434b8f4246b9711489e8709b290a301
+ComponentUpdate11=1
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name Only
+ComponentLibraryIdentifier12=ITU Autobee
+ComponentDesignItemID12=CMP-000016-1
+ComponentSymbolReference12=IR2110SPBF-Symbol-1
+ComponentUpdate12=1
+ComponentIsDeviceSheet12=0
+ComponentLibIdentifierKind13=Library Name Only
+ComponentLibraryIdentifier13=ITU Autobee
+ComponentDesignItemID13=CMP-000017-2
+ComponentSymbolReference13=FAIR-LM7805CT-TO220-3
+ComponentUpdate13=1
+ComponentIsDeviceSheet13=0
+ComponentLibIdentifierKind14=Library Name Only
+ComponentLibraryIdentifier14=ITU Autobee
+ComponentDesignItemID14=CMP-000018-2
+ComponentSymbolReference14=WE-CN-1P-M-R4
+ComponentUpdate14=1
+ComponentIsDeviceSheet14=0
+ComponentLibIdentifierKind15=Library Name Only
+ComponentLibraryIdentifier15=ITU Autobee
+ComponentDesignItemID15=CMP-000022-2
+ComponentSymbolReference15=smd cap 1000uF
+ComponentUpdate15=1
+ComponentIsDeviceSheet15=0
+ComponentLibIdentifierKind16=Library Name Only
+ComponentLibraryIdentifier16=ITU Autobee
+ComponentDesignItemID16=CMP-000026-1
+ComponentSymbolReference16=a00bbbee19879c290e62620ae7e47b1
+ComponentUpdate16=1
+ComponentIsDeviceSheet16=0
+ComponentLibIdentifierKind17=Library Name Only
+ComponentLibraryIdentifier17=ITU Autobee
+ComponentDesignItemID17=CMP-001-00084-1
+ComponentSymbolReference17=02cd4be3c70576c341d710602a673aa
+ComponentUpdate17=1
+ComponentIsDeviceSheet17=0
+ComponentLibIdentifierKind18=Library Name Only
+ComponentLibraryIdentifier18=ITU Autobee
+ComponentDesignItemID18=CMP-002-00072-1
+ComponentSymbolReference18=2 pin terminal klemens schematic
+ComponentUpdate18=1
+ComponentIsDeviceSheet18=0
+ComponentLibIdentifierKind19=Library Name Only
+ComponentLibraryIdentifier19=ITU Autobee
+ComponentDesignItemID19=CMP-002-00076-2
+ComponentSymbolReference19=3bc925449376181038e59eaffc5286c
+ComponentUpdate19=1
+ComponentIsDeviceSheet19=0
+ComponentLibIdentifierKind20=Library Name Only
+ComponentLibraryIdentifier20=ITU Autobee
+ComponentDesignItemID20=CMP-002-00078-1
+ComponentSymbolReference20=New symbol 1
+ComponentUpdate20=1
+ComponentIsDeviceSheet20=0
+ComponentLibIdentifierKind21=Library Name Only
+ComponentLibraryIdentifier21=ITU Autobee
+ComponentDesignItemID21=CMP-004-00033-1
+ComponentSymbolReference21=d7152d700b627762746794eb795d46e
+ComponentUpdate21=1
+ComponentIsDeviceSheet21=0
+ComponentLibIdentifierKind22=Library Name Only
+ComponentLibraryIdentifier22=ITU Autobee
+ComponentDesignItemID22=CMP-009-00011-5
+ComponentSymbolReference22=RES-2
+ComponentUpdate22=1
+ComponentIsDeviceSheet22=0
+ComponentLibIdentifierKind23=Library Name Only
+ComponentLibraryIdentifier23=ITU Autobee
+ComponentDesignItemID23=CMP-009-00184-2
+ComponentSymbolReference23=3b148a6ebabc5fb4d708a66c052d352
+ComponentUpdate23=1
+ComponentIsDeviceSheet23=0
+ComponentLibIdentifierKind24=Library Name Only
+ComponentLibraryIdentifier24=ITU Autobee
+ComponentDesignItemID24=CMP-013-00038-1
+ComponentSymbolReference24=b09f7f152735e370c1ea22a33fa83d6
+ComponentUpdate24=1
+ComponentIsDeviceSheet24=0
+ComponentLibIdentifierKind25=Library Name Only
+ComponentLibraryIdentifier25=ITU Autobee
+ComponentDesignItemID25=CMP-023-000000-2
+ComponentSymbolReference25=ARDUINO_NANO
+ComponentUpdate25=1
+ComponentIsDeviceSheet25=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1245,68 +1393,185 @@ RemoveModels=1
 UpdateCurrentModels=1
 ParameterName0=Availability
 ParameterUpdate0=1
-ParameterName1=Check_prices
+ParameterName1=Capacitance
 ParameterUpdate1=1
-ParameterName2=Comment
+ParameterName2=Case/Package
 ParameterUpdate2=1
-ParameterName3=Component Kind
+ParameterName3=Check_prices
 ParameterUpdate3=1
-ParameterName4=Datasheet Link
+ParameterName4=Comment
 ParameterUpdate4=1
-ParameterName5=Description
+ParameterName5=Component Kind
 ParameterUpdate5=1
-ParameterName6=Designed By
+ParameterName6=Component Type
 ParameterUpdate6=1
-ParameterName7=Geometry.Height
+ParameterName7=Construction
 ParameterUpdate7=1
-ParameterName8=Library Reference
+ParameterName8=Description
 ParameterUpdate8=1
-ParameterName9=manufacturer product number
+ParameterName9=Design Item ID
 ParameterUpdate9=1
-ParameterName10=Manufacturer_Name
+ParameterName10=Diameter
 ParameterUpdate10=1
-ParameterName11=Manufacturer_Part_Number
+ParameterName11=Dropout Voltage
 ParameterUpdate11=1
-ParameterName12=MF
+ParameterName12=Lead Free
 ParameterUpdate12=1
-ParameterName13=Mouser Part Number
+ParameterName13=Library Reference
 ParameterUpdate13=1
-ParameterName14=Mouser Price/Stock
+ParameterName14=Max Operating Temperature
 ParameterUpdate14=1
-ParameterName15=MP
+ParameterName15=MF
 ParameterUpdate15=1
-ParameterName16=Package
+ParameterName16=Min Operating Temperature
 ParameterUpdate16=1
-ParameterName17=part number
+ParameterName17=Mounting Technology
 ParameterUpdate17=1
-ParameterName18=Price
+ParameterName18=MP
 ParameterUpdate18=1
-ParameterName19=Purchase-URL
+ParameterName19=Package
 ParameterUpdate19=1
-ParameterName20=SnapEDA_Link
+ParameterName20=Pin Count
 ParameterUpdate20=1
-ParameterName21=Value
+ParameterName21=Pins
 ParameterUpdate21=1
+ParameterName22=Power
+ParameterUpdate22=1
+ParameterName23=Price
+ParameterUpdate23=1
+ParameterName24=Quiescent Current
+ParameterUpdate24=1
+ParameterName25=RoHS Compliant
+ParameterUpdate25=1
+ParameterName26=SnapEDA_Link
+ParameterUpdate26=1
+ParameterName27=Source
+ParameterUpdate27=1
+ParameterName28=Tolerance
+ParameterUpdate28=1
+ParameterName29=Value
+ParameterUpdate29=1
+ParameterName30=Voltage Rating
+ParameterUpdate30=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=1206 PACKAGE
+ModelName0=22 uF TH Electrolytic Capacitor-Footprint-1
 ModelUpdate0=1
 ModelType1=PCBLIB
-ModelName1=2103SMD-8SOIC
+ModelName1=61300411121
 ModelUpdate1=1
 ModelType2=PCBLIB
-ModelName2=22uF-50V_CAP_EEEFN1H220UR
+ModelName2=FAIR-TO-220-3
 ModelUpdate2=1
 ModelType3=PCBLIB
-ModelName3=3205pbf
+ModelName3=FP-1206-L_3_2_0_2-W_1_6_0-IPC_A
 ModelUpdate3=1
 ModelType4=PCBLIB
-ModelName4=4 Pin Male Header
+ModelName4=FP-1206-L_3_2_0_2-W_1_6_0-IPC_B
 ModelUpdate4=1
 ModelType5=PCBLIB
-ModelName5=FR1M-13
+ModelName5=FP-1206-L_3_2_0_2-W_1_6_0-IPC_C
 ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=FP-1206-L_3_2_0_2-W_1_6_0-MFG
+ModelUpdate6=1
+ModelType7=PCBLIB
+ModelName7=FP-403A-03-MFG
+ModelUpdate7=1
+ModelType8=PCBLIB
+ModelName8=FP-6_560-5005_01-4-MFG
+ModelUpdate8=1
+ModelType9=PCBLIB
+ModelName9=FP-95402-MFG
+ModelUpdate9=1
+ModelType10=PCBLIB
+ModelName10=FP-AC1206-IPC_A
+ModelUpdate10=1
+ModelType11=PCBLIB
+ModelName11=FP-AC1206-IPC_B
+ModelUpdate11=1
+ModelType12=PCBLIB
+ModelName12=FP-AC1206-IPC_C
+ModelUpdate12=1
+ModelType13=PCBLIB
+ModelName13=FP-AC1206-MFG
+ModelUpdate13=1
+ModelType14=PCBLIB
+ModelName14=FP-CL31-IPC_A
+ModelUpdate14=1
+ModelType15=PCBLIB
+ModelName15=FP-CL31-IPC_B
+ModelUpdate15=1
+ModelType16=PCBLIB
+ModelName16=FP-CL31-IPC_C
+ModelUpdate16=1
+ModelType17=PCBLIB
+ModelName17=FP-FKH13-MFG
+ModelUpdate17=1
+ModelType18=PCBLIB
+ModelName18=FP-KTT0003B-MFG
+ModelUpdate18=1
+ModelType19=PCBLIB
+ModelName19=FP-M20-9990246-MFG
+ModelUpdate19=1
+ModelType20=PCBLIB
+ModelName20=FP-NTPAD-MFG
+ModelUpdate20=1
+ModelType21=PCBLIB
+ModelName21=FP-PG-DSO-8-IPC_A
+ModelUpdate21=1
+ModelType22=PCBLIB
+ModelName22=FP-PG-DSO-8-IPC_B
+ModelUpdate22=1
+ModelType23=PCBLIB
+ModelName23=FP-PG-DSO-8-IPC_C
+ModelUpdate23=1
+ModelType24=PCBLIB
+ModelName24=FP-PG-DSO-8-MFG
+ModelUpdate24=1
+ModelType25=PCBLIB
+ModelName25=FP-PG-TO263-3-MFG
+ModelUpdate25=1
+ModelType26=PCBLIB
+ModelName26=FP-RAD-TH-D_16_0_5-L_25_2-MFG
+ModelUpdate26=1
+ModelType27=PCBLIB
+ModelName27=FP-RC1206-0_65-IPC_A
+ModelUpdate27=1
+ModelType28=PCBLIB
+ModelName28=FP-RC1206-0_65-IPC_B
+ModelUpdate28=1
+ModelType29=PCBLIB
+ModelName29=FP-RC1206-0_65-IPC_C
+ModelUpdate29=1
+ModelType30=PCBLIB
+ModelName30=FP-RC1206-0_65-MFG
+ModelUpdate30=1
+ModelType31=PCBLIB
+ModelName31=FP-SD-MFG
+ModelUpdate31=1
+ModelType32=PCBLIB
+ModelName32=IR2110SPBF-Footprint-1
+ModelUpdate32=1
+ModelType33=PCBLIB
+ModelName33=LM2596 Buck Converter Module-Footprint-1
+ModelUpdate33=1
+ModelType34=PCBLIB
+ModelName34=New footprint 1
+ModelUpdate34=1
+ModelType35=PCBLIB
+ModelName35=RESC3116X70X50LL13T20
+ModelUpdate35=1
+ModelType36=PCBLIB
+ModelName36=RESC3116X70X50ML13T20
+ModelUpdate36=1
+ModelType37=PCBLIB
+ModelName37=RESC3116X70X50NL13T20
+ModelUpdate37=1
+ModelType38=PCBLIB
+ModelName38=SHIELD_ARDUINO_NANO
+ModelUpdate38=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
